@@ -1,0 +1,1205 @@
+{
+ "version": 1,
+ "note": "菜系收集表 100 道；食材在菜市场购买；heat=火候难度(1-3)，对应做饭小游戏判定窗口宽度",
+ "dishes": [
+  {
+   "id": "dish_001",
+   "name": "番茄炒蛋",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "番茄",
+    "鸡蛋",
+    "葱"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_002",
+   "name": "青椒肉丝",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "青椒",
+    "猪肉",
+    "蒜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_003",
+   "name": "红烧肉",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "五花肉",
+    "酱油",
+    "冰糖"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_004",
+   "name": "糖醋里脊",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "里脊",
+    "番茄酱",
+    "醋"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_005",
+   "name": "麻婆豆腐",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "豆腐",
+    "牛肉末",
+    "豆瓣酱"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_006",
+   "name": "宫保鸡丁",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "鸡胸",
+    "花生",
+    "干辣椒"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_007",
+   "name": "鱼香肉丝",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "猪肉",
+    "木耳",
+    "胡萝卜"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_008",
+   "name": "回锅肉",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "五花肉",
+    "青蒜",
+    "豆瓣酱"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_009",
+   "name": "干煸四季豆",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "四季豆",
+    "肉末",
+    "蒜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_010",
+   "name": "蒜蓉西兰花",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "西兰花",
+    "蒜",
+    "盐"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_011",
+   "name": "清炒时蔬",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "青菜",
+    "蒜",
+    "油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_012",
+   "name": "醋溜土豆丝",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "土豆",
+    "青椒",
+    "醋"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_013",
+   "name": "可乐鸡翅",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "鸡翅",
+    "可乐",
+    "姜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_014",
+   "name": "香菇滑鸡",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "鸡腿",
+    "香菇",
+    "姜"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_015",
+   "name": "葱爆羊肉",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "羊肉",
+    "大葱",
+    "孜然"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_016",
+   "name": "水煮牛肉",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "牛肉",
+    "豆芽",
+    "辣椒"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_017",
+   "name": "酸菜鱼",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "鱼片",
+    "酸菜",
+    "泡椒"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_018",
+   "name": "剁椒鱼头",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "鱼头",
+    "剁椒",
+    "姜"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_019",
+   "name": "蒸蛋羹",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "鸡蛋",
+    "温水",
+    "香油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_020",
+   "name": "什锦炒饭",
+   "cuisine": "中式家常",
+   "ingredients": [
+    "米饭",
+    "鸡蛋",
+    "火腿"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_021",
+   "name": "东坡肉",
+   "cuisine": "中式硬菜",
+   "ingredients": [
+    "五花肉",
+    "黄酒",
+    "冰糖"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_022",
+   "name": "佛跳墙",
+   "cuisine": "中式硬菜",
+   "ingredients": [
+    "鲍鱼",
+    "花胶",
+    "老鸡"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_023",
+   "name": "北京烤鸭",
+   "cuisine": "中式硬菜",
+   "ingredients": [
+    "鸭子",
+    "面酱",
+    "薄饼"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_024",
+   "name": "叫花鸡",
+   "cuisine": "中式硬菜",
+   "ingredients": [
+    "整鸡",
+    "荷叶",
+    "泥"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_025",
+   "name": "狮子头",
+   "cuisine": "中式硬菜",
+   "ingredients": [
+    "猪肉",
+    "荸荠",
+    "蛋清"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_026",
+   "name": "白切鸡",
+   "cuisine": "中式硬菜",
+   "ingredients": [
+    "整鸡",
+    "姜",
+    "葱油"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_027",
+   "name": "小笼包",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "面粉",
+    "猪肉",
+    "高汤冻"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_028",
+   "name": "生煎包",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "面粉",
+    "猪肉",
+    "芝麻"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_029",
+   "name": "锅贴",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "饺子皮",
+    "猪肉",
+    "韭菜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_030",
+   "name": "灌汤包",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "面粉",
+    "猪肉",
+    "皮冻"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_031",
+   "name": "虾饺",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "澄面",
+    "虾仁",
+    "笋"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_032",
+   "name": "烧卖",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "面皮",
+    "糯米",
+    "香菇"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_033",
+   "name": "叉烧包",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "面粉",
+    "叉烧",
+    "蚝油"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_034",
+   "name": "蛋挞",
+   "cuisine": "中式点心",
+   "ingredients": [
+    "酥皮",
+    "蛋液",
+    "奶油"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_035",
+   "name": "豆浆油条",
+   "cuisine": "中式早餐",
+   "ingredients": [
+    "黄豆",
+    "面粉",
+    "油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_036",
+   "name": "皮蛋瘦肉粥",
+   "cuisine": "中式早餐",
+   "ingredients": [
+    "米",
+    "皮蛋",
+    "瘦肉"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_037",
+   "name": "阳春面",
+   "cuisine": "中式早餐",
+   "ingredients": [
+    "面条",
+    "葱",
+    "猪油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_038",
+   "name": "煎饼果子",
+   "cuisine": "中式早餐",
+   "ingredients": [
+    "面糊",
+    "鸡蛋",
+    "薄脆"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_039",
+   "name": "肠粉",
+   "cuisine": "中式早餐",
+   "ingredients": [
+    "米浆",
+    "虾仁",
+    "酱油"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_040",
+   "name": "茶叶蛋",
+   "cuisine": "中式早餐",
+   "ingredients": [
+    "鸡蛋",
+    "茶叶",
+    "卤料"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_041",
+   "name": "番茄牛腩汤",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "牛腩",
+    "番茄",
+    "洋葱"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_042",
+   "name": "玉米排骨汤",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "排骨",
+    "玉米",
+    "胡萝卜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_043",
+   "name": "冬瓜丸子汤",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "冬瓜",
+    "猪肉丸",
+    "姜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_044",
+   "name": "紫菜蛋花汤",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "紫菜",
+    "鸡蛋",
+    "虾皮"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_045",
+   "name": "老鸭汤",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "老鸭",
+    "酸萝卜",
+    "姜"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_046",
+   "name": "银耳莲子羹",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "银耳",
+    "莲子",
+    "冰糖"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_047",
+   "name": "南瓜浓汤",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "南瓜",
+    "牛奶",
+    "黄油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_048",
+   "name": "罗宋汤",
+   "cuisine": "汤羹",
+   "ingredients": [
+    "牛肉",
+    "番茄",
+    "卷心菜"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_049",
+   "name": "寿司卷",
+   "cuisine": "日式",
+   "ingredients": [
+    "米饭",
+    "海苔",
+    "黄瓜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_050",
+   "name": "刺身拼盘",
+   "cuisine": "日式",
+   "ingredients": [
+    "三文鱼",
+    "金枪鱼",
+    "萝卜丝"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_051",
+   "name": "天妇罗",
+   "cuisine": "日式",
+   "ingredients": [
+    "虾",
+    "面糊",
+    "油"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_052",
+   "name": "味噌汤",
+   "cuisine": "日式",
+   "ingredients": [
+    "味噌",
+    "豆腐",
+    "海带"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_053",
+   "name": "亲子丼",
+   "cuisine": "日式",
+   "ingredients": [
+    "鸡肉",
+    "鸡蛋",
+    "洋葱"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_054",
+   "name": "咖喱饭",
+   "cuisine": "日式",
+   "ingredients": [
+    "咖喱块",
+    "土豆",
+    "胡萝卜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_055",
+   "name": "拉面",
+   "cuisine": "日式",
+   "ingredients": [
+    "面条",
+    "叉烧",
+    "溏心蛋"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_056",
+   "name": "章鱼小丸子",
+   "cuisine": "日式",
+   "ingredients": [
+    "面糊",
+    "章鱼",
+    "木鱼花"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_057",
+   "name": "玉子烧",
+   "cuisine": "日式",
+   "ingredients": [
+    "鸡蛋",
+    "味淋",
+    "糖"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_058",
+   "name": "鳗鱼饭",
+   "cuisine": "日式",
+   "ingredients": [
+    "鳗鱼",
+    "米饭",
+    "酱汁"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_059",
+   "name": "泡菜炒饭",
+   "cuisine": "韩式",
+   "ingredients": [
+    "泡菜",
+    "米饭",
+    "鸡蛋"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_060",
+   "name": "部队锅",
+   "cuisine": "韩式",
+   "ingredients": [
+    "午餐肉",
+    "泡菜",
+    "年糕"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_061",
+   "name": "石锅拌饭",
+   "cuisine": "韩式",
+   "ingredients": [
+    "米饭",
+    "蔬菜",
+    "辣酱"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_062",
+   "name": "韩式炸鸡",
+   "cuisine": "韩式",
+   "ingredients": [
+    "鸡翅",
+    "炸粉",
+    "啤酒"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_063",
+   "name": "牛排",
+   "cuisine": "西式",
+   "ingredients": [
+    "牛排",
+    "黄油",
+    "黑胡椒"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_064",
+   "name": "奶油蘑菇汤",
+   "cuisine": "西式",
+   "ingredients": [
+    "蘑菇",
+    "奶油",
+    "洋葱"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_065",
+   "name": "凯撒沙拉",
+   "cuisine": "西式",
+   "ingredients": [
+    "生菜",
+    "面包丁",
+    "芝士"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_066",
+   "name": "香草烤鸡腿",
+   "cuisine": "西式",
+   "ingredients": [
+    "鸡腿",
+    "迷迭香",
+    "柠檬"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_067",
+   "name": "炸鱼薯条",
+   "cuisine": "西式",
+   "ingredients": [
+    "鳕鱼",
+    "土豆",
+    "面粉"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_068",
+   "name": "牛肉汉堡",
+   "cuisine": "西式",
+   "ingredients": [
+    "面包",
+    "牛肉饼",
+    "生菜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_069",
+   "name": "热狗",
+   "cuisine": "西式",
+   "ingredients": [
+    "面包",
+    "香肠",
+    "芥末"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_070",
+   "name": "三明治",
+   "cuisine": "西式",
+   "ingredients": [
+    "吐司",
+    "火腿",
+    "芝士"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_071",
+   "name": "班尼迪克蛋",
+   "cuisine": "西式",
+   "ingredients": [
+    "松饼",
+    "鸡蛋",
+    "荷兰酱"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_072",
+   "name": "惠灵顿牛排",
+   "cuisine": "西式",
+   "ingredients": [
+    "牛柳",
+    "酥皮",
+    "蘑菇"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_073",
+   "name": "玛格丽特披萨",
+   "cuisine": "意式",
+   "ingredients": [
+    "面饼",
+    "番茄",
+    "罗勒"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_074",
+   "name": "海鲜披萨",
+   "cuisine": "意式",
+   "ingredients": [
+    "面饼",
+    "虾",
+    "芝士"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_075",
+   "name": "番茄意面",
+   "cuisine": "意式",
+   "ingredients": [
+    "意面",
+    "番茄",
+    "罗勒"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_076",
+   "name": "奶油培根面",
+   "cuisine": "意式",
+   "ingredients": [
+    "意面",
+    "培根",
+    "奶油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_077",
+   "name": "千层面",
+   "cuisine": "意式",
+   "ingredients": [
+    "面皮",
+    "肉酱",
+    "白酱"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_078",
+   "name": "提拉米苏",
+   "cuisine": "甜点",
+   "ingredients": [
+    "手指饼",
+    "咖啡",
+    "马斯卡彭"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_079",
+   "name": "芝士蛋糕",
+   "cuisine": "甜点",
+   "ingredients": [
+    "奶油奶酪",
+    "饼干",
+    "柠檬"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_080",
+   "name": "草莓奶油蛋糕",
+   "cuisine": "甜点",
+   "ingredients": [
+    "海绵胚",
+    "草莓",
+    "淡奶油"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_081",
+   "name": "舒芙蕾",
+   "cuisine": "甜点",
+   "ingredients": [
+    "蛋清",
+    "糖",
+    "面粉"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_082",
+   "name": "焦糖布丁",
+   "cuisine": "甜点",
+   "ingredients": [
+    "鸡蛋",
+    "牛奶",
+    "焦糖"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_083",
+   "name": "马卡龙",
+   "cuisine": "甜点",
+   "ingredients": [
+    "杏仁粉",
+    "糖粉",
+    "蛋清"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_084",
+   "name": "可颂",
+   "cuisine": "甜点",
+   "ingredients": [
+    "面粉",
+    "黄油",
+    "酵母"
+   ],
+   "heat": 3,
+   "price": 65
+  },
+  {
+   "id": "dish_085",
+   "name": "司康",
+   "cuisine": "甜点",
+   "ingredients": [
+    "面粉",
+    "黄油",
+    "葡萄干"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_086",
+   "name": "甜甜圈",
+   "cuisine": "甜点",
+   "ingredients": [
+    "面粉",
+    "巧克力",
+    "糖霜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_087",
+   "name": "奶油泡芙",
+   "cuisine": "甜点",
+   "ingredients": [
+    "面粉",
+    "黄油",
+    "奶油"
+   ],
+   "heat": 2,
+   "price": 50
+  },
+  {
+   "id": "dish_088",
+   "name": "草莓大福",
+   "cuisine": "甜点",
+   "ingredients": [
+    "糯米粉",
+    "红豆沙",
+    "草莓"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_089",
+   "name": "铜锣烧",
+   "cuisine": "甜点",
+   "ingredients": [
+    "面粉",
+    "红豆沙",
+    "蜂蜜"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_090",
+   "name": "双皮奶",
+   "cuisine": "甜点",
+   "ingredients": [
+    "牛奶",
+    "蛋清",
+    "糖"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_091",
+   "name": "蛋卷",
+   "cuisine": "甜点",
+   "ingredients": [
+    "面粉",
+    "鸡蛋",
+    "黄油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_092",
+   "name": "芒果班戟",
+   "cuisine": "甜点",
+   "ingredients": [
+    "面皮",
+    "芒果",
+    "奶油"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_093",
+   "name": "冰淇淋",
+   "cuisine": "甜点",
+   "ingredients": [
+    "牛奶",
+    "淡奶油",
+    "糖"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_094",
+   "name": "柠檬水",
+   "cuisine": "饮品",
+   "ingredients": [
+    "柠檬",
+    "蜂蜜",
+    "冰"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_095",
+   "name": "珍珠奶茶",
+   "cuisine": "饮品",
+   "ingredients": [
+    "红茶",
+    "牛奶",
+    "珍珠"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_096",
+   "name": "拿铁",
+   "cuisine": "饮品",
+   "ingredients": [
+    "浓缩",
+    "牛奶"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_097",
+   "name": "抹茶拿铁",
+   "cuisine": "饮品",
+   "ingredients": [
+    "抹茶",
+    "牛奶",
+    "糖"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_098",
+   "name": "热可可",
+   "cuisine": "饮品",
+   "ingredients": [
+    "可可粉",
+    "牛奶",
+    "棉花糖"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_099",
+   "name": "蜂蜜柚子茶",
+   "cuisine": "饮品",
+   "ingredients": [
+    "柚子",
+    "蜂蜜",
+    "茶"
+   ],
+   "heat": 1,
+   "price": 35
+  },
+  {
+   "id": "dish_100",
+   "name": "桂花酒酿",
+   "cuisine": "饮品",
+   "ingredients": [
+    "酒酿",
+    "桂花",
+    "小圆子"
+   ],
+   "heat": 1,
+   "price": 35
+  }
+ ]
+}

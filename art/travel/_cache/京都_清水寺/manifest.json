@@ -1,0 +1,26 @@
+{
+ "place": "京都 清水寺",
+ "query": "京都 清水寺",
+ "mkt": "zh-CN",
+ "at": 1794198757067,
+ "items": [
+  {
+   "file": "ever/art/travel/_cache/京都_清水寺/1.webp",
+   "src": "https://pic1.zhimg.com/v2-de082b783b12f10915c011fdfea55622_r.jpg",
+   "w": 1200,
+   "h": 800
+  },
+  {
+   "file": "ever/art/travel/_cache/京都_清水寺/2.webp",
+   "src": "https://n.sinaimg.cn/sinacn20119/299/w1619h1080/20200109/7c9b-imvsvza3264659.jpg",
+   "w": 1200,
+   "h": 800
+  },
+  {
+   "file": "ever/art/travel/_cache/京都_清水寺/3.webp",
+   "src": "https://img1.qunarzz.com/travel/d3/1810/e8/b1444d17c3ebfab5.jpg",
+   "w": 1200,
+   "h": 800
+  }
+ ]
+}

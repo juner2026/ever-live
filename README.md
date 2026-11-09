@@ -1,3 +1,9 @@
 # ever-live
 
-Ever web preview.
+Ever（潮汐/旅途）网页版的一个预览镜像，用来在手机上随手打开。
+
+- 入口：`index.html`（就是 ever/app.html）
+- 手帐桌面：`doc.html`
+- 旅途玩法源码不在这个仓库里（在私有仓库 `juner2026/ever`），这里只放构建产物。
+
+> 出于安全，构建产物里的生图 API key 已被抹掉。明信片「画这张」在这个镜像里不可用。
